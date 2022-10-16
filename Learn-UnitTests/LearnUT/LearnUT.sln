@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnUT", "LearnUT\LearnUT.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnUT.Test", "LearnUT.Test\LearnUT.Test.csproj", "{93ADA7EF-900B-494F-A26A-A5001A1EB5AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAn.UnitTests", "LogAn.UnitTests\LogAn.UnitTests.csproj", "{9100F6C4-1235-4765-9679-1BD54CF60AF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogAn.UnitTests", "LogAn.UnitTests\LogAn.UnitTests.csproj", "{9100F6C4-1235-4765-9679-1BD54CF60AF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
